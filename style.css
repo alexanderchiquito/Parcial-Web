@@ -1,0 +1,102 @@
+.box-one{
+    padding: 150px 100px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.box-one a{
+    background:#f76540;
+    text-decoration: none;
+}
+.box-one a{
+    display: inline-block;
+    border:  1px solid #D3D3D3;
+    background-color: #D3D3D3;
+    color:#fff;
+    text-decoration: none;
+    margin-left: 50px;
+    padding: 10px 20px;
+    line-height: normal;
+    font-size: 20px;
+    font-family: 'IBM Plex Sans', sans-serif;
+    -webkit-transition: all 500ms ease;
+    -o-transition: all  500ms   ease;
+    transition: all 500ms ease;
+}
+
+.box-one a:hover{
+    background:  #f76540;
+    border-radius: 30px;
+}
+
+.box-one img{
+    border-radius: 20px;
+}
+
+
+.box-one-one {
+    padding: 20px 20px;
+    display: flex;
+}
+
+.box-one-one img{
+    margin: 20px;
+    height: 60px;
+    width: 80px;
+    border-radius: 15px;
+}
+
+.box-derivada{
+    font-family: 'IBM Plex Sans', sans-serif;
+}
+
+.box-two-two {
+    padding: 30px 30px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.box1{
+    margin-left: 400px;
+}
+
+.box2{
+    margin-right: 400px;
+}
+
+.box1 h3{
+    margin-left: 25px;
+}
+
+.box2 h3{
+    margin-left: 25px;
+}
+
+
+.box-two-two input{
+    width: 50px;
+}
+
+.Botoon{
+    display: inline-block;
+    border:  1px solid #D3D3D3;
+    background-color: #D3D3D3;
+    color:#fff;
+    text-decoration: none;
+    margin-left: 650px;
+    padding: 10px 20px;
+    line-height: normal;
+    font-size: 10px;
+    font-family: 'IBM Plex Sans', sans-serif;
+    -webkit-transition: all 500ms ease;
+    -o-transition: all  500ms   ease;
+    transition: all 500ms ease;
+}
+
+.Botoon:hover{
+    background:  #f76540;
+    border-radius: 50px;
+}
+
+
+
